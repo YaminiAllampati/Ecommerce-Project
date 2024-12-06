@@ -8,16 +8,16 @@
       <![CDATA[TestCase Exceuted succesfully]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-12-06T17:31:41 IST" name="Default suite" finished-at="2024-12-06T17:32:03 IST" duration-ms="22141">
+  <suite started-at="2024-12-06T17:47:57 IST" name="Suite" finished-at="2024-12-06T17:48:07 IST" duration-ms="9923">
     <groups>
     </groups>
-    <test started-at="2024-12-06T17:31:41 IST" name="Default test" finished-at="2024-12-06T17:32:03 IST" duration-ms="22141">
-      <class name="testCases.TestCase2">
-        <test-method is-config="true" signature="launch()[pri:0, instance:testCases.TestCase2@4b0d79fc]" started-at="2024-12-06T17:31:41 IST" name="launch" finished-at="2024-12-06T17:31:54 IST" duration-ms="12755" status="PASS">
+    <test started-at="2024-12-06T17:47:57 IST" name="Test" finished-at="2024-12-06T17:48:07 IST" duration-ms="9923">
+      <class name="testCases.TestCase8">
+        <test-method is-config="true" signature="launch()[pri:0, instance:testCases.TestCase8@1151e434]" started-at="2024-12-06T17:47:57 IST" name="launch" finished-at="2024-12-06T17:48:02 IST" duration-ms="5175" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
-        <test-method signature="userSign()[pri:0, instance:testCases.TestCase2@4b0d79fc]" started-at="2024-12-06T17:31:54 IST" name="userSign" finished-at="2024-12-06T17:32:03 IST" duration-ms="8820" status="PASS">
+        <test-method signature="TC8()[pri:0, instance:testCases.TestCase8@1151e434]" started-at="2024-12-06T17:48:02 IST" name="TC8" finished-at="2024-12-06T17:48:07 IST" duration-ms="4452" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Test Case Execution started]]>
@@ -26,8 +26,8 @@
               <![CDATA[TestCase Exceuted succesfully]]>
             </line>
           </reporter-output>
-        </test-method> <!-- userSign -->
-      </class> <!-- testCases.TestCase2 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- TC8 -->
+      </class> <!-- testCases.TestCase8 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
