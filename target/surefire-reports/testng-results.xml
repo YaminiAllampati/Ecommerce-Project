@@ -8,16 +8,16 @@
       <![CDATA[TestCase Exceuted succesfully]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-11-29T12:54:22 IST" name="Suite" finished-at="2024-11-29T12:54:34 IST" duration-ms="12077">
+  <suite started-at="2024-12-06T17:32:50 IST" name="Suite" finished-at="2024-12-06T17:33:05 IST" duration-ms="15445">
     <groups>
     </groups>
-    <test started-at="2024-11-29T12:54:22 IST" name="Test" finished-at="2024-11-29T12:54:34 IST" duration-ms="12077">
+    <test started-at="2024-12-06T17:32:50 IST" name="Test" finished-at="2024-12-06T17:33:05 IST" duration-ms="15445">
       <class name="testCases.TestCase2">
-        <test-method is-config="true" signature="launch()[pri:0, instance:testCases.TestCase2@1e0b4072]" started-at="2024-11-29T12:54:22 IST" name="launch" finished-at="2024-11-29T12:54:27 IST" duration-ms="5563" status="PASS">
+        <test-method is-config="true" signature="launch()[pri:0, instance:testCases.TestCase2@1e0b4072]" started-at="2024-12-06T17:32:50 IST" name="launch" finished-at="2024-12-06T17:32:58 IST" duration-ms="7989" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
-        <test-method signature="userSign()[pri:0, instance:testCases.TestCase2@1e0b4072]" started-at="2024-11-29T12:54:27 IST" name="userSign" finished-at="2024-11-29T12:54:33 IST" duration-ms="5834" status="PASS">
+        <test-method signature="userSign()[pri:0, instance:testCases.TestCase2@1e0b4072]" started-at="2024-12-06T17:32:58 IST" name="userSign" finished-at="2024-12-06T17:33:05 IST" duration-ms="6895" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Test Case Execution started]]>
